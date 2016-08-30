@@ -15,7 +15,7 @@ MONGODB_USER=xxxx
 MONGODB_PASSWD=xxxx
 ```
 
-## shell script that pushes and execute a jar to a docker container running locally
+## Shell script that pushes and execute a jar to a docker container running locally
 ```shell
 #!/bin/sh
 
